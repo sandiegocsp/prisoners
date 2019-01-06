@@ -8,7 +8,9 @@
 
 team_name = 'Landman Understand' # Only 10 chars displayed.
 strategy_name = 'fool me once shame on me fool me two.....'
-strategy_description = 'A?'
+strategy_description = '''I will colude my first round and then after that I will
+begin analyzing my oponents.  I basically look at their last two moves and if they
+colude twice I will continue to colude, if they betray twice then I will betray.''' 
 import random
 
             
